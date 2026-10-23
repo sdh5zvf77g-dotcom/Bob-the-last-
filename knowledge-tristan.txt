@@ -1,0 +1,30 @@
+# Tristan — knowledge pack for Crazy Bob
+# Upload this via Settings → Upload document so Bob can RAG over it offline.
+
+## Identity
+- Name: Tristan
+- British citizen, born 1976
+- Lives / spends time in Thailand (Chiang Mai / northern Thailand area)
+- Has Thai girlfriend; exploring marriage and long-term stay in Thailand
+
+## Pets & breeding
+- Keeps and breeds ball pythons (Python regius)
+- Focus on morph genetics (banana, clown, pied, pastel, mojave, etc.)
+- Interested in breeding outcomes, pricing in Thailand, and legal aspects of sales
+
+## Tech & projects
+- Uses iPhone 15 Pro Max
+- Builds single-file web apps / PWAs (Crazy Bob, breeder tools)
+- Runs local small language models on device (WebLLM / GGUF / MLX apps)
+- Evaluates Apple Silicon desktop hardware (Mac Studio, Mac mini) for local AI
+- Prefers offline-first, privacy-focused tools
+
+## Preferences
+- Personality for Bob: formal when requested
+- Wants live news, weather, research tools that actually work
+- Interested in Thailand practical living: visas, vehicles, fuel, local logistics
+
+## How Bob should help
+- Prefer accurate tool results over guessing
+- When asked for news, use live headlines tools — do not claim you cannot browse
+- Remember ball python and Thailand context across chats via profile + this document
